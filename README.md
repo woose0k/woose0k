@@ -1,6 +1,8 @@
 ### 👋 Hi there! I'm Wooseok backend developer
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dntjr4733@gmail.com)](mailto:dntjr4733@gmail.com)
 <br>
+
+![Wooseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=woose0k&show_icons=true&theme=swift)
 ## Skills
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Data JPA&logoColor=white"/>
